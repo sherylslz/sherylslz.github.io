@@ -1,8 +1,8 @@
 {
-  "hash": "a81a736ed8455ac6061bde315793f618",
+  "hash": "34ece61729f0915a72fe697059375936",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"NFL 2022 Season Passsing\"\ndescription: \"Summer 2025 EDA project...\"\ndate: \"June 25, 2025\"\nresources: \".\"\nabout:\n  template: solana\n  image: cover.jpg\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/sherylslz/NFL-passing\"\n    - icon: file-earmark-easel\n      text: slides\n      href: \"https://www.canva.com/design/DAGpmCmxp5Q/I4h9doy6ZPlZR2KplZU4Fg/edit\"\n---\n\n\n\n\nThis is my EDA project...\n\nSome info...\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(300))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"NFL 2022 Season Passsing\"\ndescription: \"Summer 2025 EDA project...\"\ndate: \"June 25, 2025\"\nresources: \".\"\nabout:\n  template: solana\n  image: cover.jpg\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/sherylslz/NFL-passing\"\n    - icon: file-earmark-easel\n      text: slides\n      href: \"https://www.canva.com/design/DAGpmCmxp5Q/I4h9doy6ZPlZR2KplZU4Fg/edit\"\n---\n\n\n\nThis is my EDA project...\n\nSome info...\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(300))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "eda_files"
     ],
