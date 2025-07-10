@@ -1,0 +1,21 @@
+---
+title: "Quantifying Effort in American Fotball"
+description: "Summer 2025 capstone..."
+date: "July 25, 2025"
+resources: "."
+about:
+  template: solana
+  image: capstone.jpg
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/eshteynberg/Football-Effort"
+    - icon: file-earmark-easel
+      text: slides
+      href: "https://www.canva.com/design/DAGpmCmxp5Q/I4h9doy6ZPlZR2KplZU4Fg/edit"
+    - icon: file-code
+      text: "Report"
+      href: "https://www.stat.cmu.edu/cmsac/sure/2024/showcase/"
+---
+
+This is my capstone project...bla bla

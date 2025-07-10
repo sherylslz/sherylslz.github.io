@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sheryl Solorzano",
+    "section": "",
+    "text": "Welcome to my website!\nI’m a rising junior at Amherst College double majoring in Statistics and Sociology.\nMy favorite package is `tidyverse`"
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Quantifying Effort in American Fotball",
+    "section": "",
+    "text": "This is my capstone project…bla bla"
+  },
+  {
+    "objectID": "projects/EDA/eda.html",
+    "href": "projects/EDA/eda.html",
+    "title": "NFL 2022 Season Passsing",
+    "section": "",
+    "text": "This is my EDA project…\nSome info…\n\nhist(rnorm(300))"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "NFL 2022 Season Passsing\n\n\n\n\n\nSummer 2025 EDA project…\n\n\n\n\n\nJun 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Effort in American Fotball\n\n\n\n\n\nSummer 2025 capstone…\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\nNo matching items"
+  }
+]
