@@ -1,0 +1,15 @@
+{
+  "hash": "ab034e7c9ea76f3acbd3e5b04c8f9c3b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Sheryl Solorzano\"\nabout:\n  template: trestles\n  image: assets/Professional_Headshot.jpg\n  image-shape: rectangle\n  links:\n    - icon: envelope-at\n      text: Email\n      href: mailto:sherylslz46@gmail.com\n    - icon: github\n      text: Github\n      href: https://github.com\n---\n\n\n\n\nWelcome to my website!\n\nI'm a rising junior at Amherst College double majoring in Statistics and Sociology.\n\nMy favorite package is \\`tidyverse\\`\n\n\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
