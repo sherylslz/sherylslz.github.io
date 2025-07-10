@@ -1,0 +1,24 @@
+---
+title: "Sheryl Solorzano"
+about:
+  template: trestles
+  image: assets/Professional_Headshot.jpg
+  image-shape: rectangle
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:sherylslz46@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome to my website!
+
+I'm a rising junior at Amherst College double majoring in Statistics and Sociology.
+
+My favorite package is \`tidyverse\`
+
+```{r}
+
+```

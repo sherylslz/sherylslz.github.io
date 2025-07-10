@@ -1,0 +1,9 @@
+---
+title: "Projects"
+listing: 
+  contents: projects # name of the folder. Needs to match the folder name where projects are
+  type: default
+  sort:
+    - "date"
+    - "title desc"
+---

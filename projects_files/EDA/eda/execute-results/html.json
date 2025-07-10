@@ -1,0 +1,15 @@
+{
+  "hash": "b12fd24ef2c4c7f3fdf67f8ce80e3f61",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My EDA Project\"\ndescription: \"This is my summer 2025 EDA project\"\ndate: \"June 25\"\nabout:\n  template: solana\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/sherylslz/NFL-passing\"\n    - icon: file-earmark-easel\n      text: slides\n      href: \"https://www.canva.com/design/DAGpmCmxp5Q/I4h9doy6ZPlZR2KplZU4Fg/edit\"\n---\n\n\n\n\nThis is my EDA project...\n\nSome info...\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#hist(rnorm())\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

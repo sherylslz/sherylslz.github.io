@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Sheryl Solorzano"
+  navbar:
+    background: "#5D3FD3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sheryl-solorzano-sherylslz/
+        target: blank
+      - icon: github
+        href: https://github.com/
+        target: blank
+      - icon: file-pdf
+        href: assets/Sheryl_Solorzano's_Resume.pdf
+      
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    
+execute: 
+  freeze: auto
+
+editor: visual
+

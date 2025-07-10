@@ -1,0 +1,32 @@
+---
+title: "NFL 2022 Season Passsing"
+description: "Summer 2025 EDA project..."
+date: "June 25, 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/sherylslz/NFL-passing"
+    - icon: file-earmark-easel
+      text: slides
+      href: "https://www.canva.com/design/DAGpmCmxp5Q/I4h9doy6ZPlZR2KplZU4Fg/edit"
+---
+
+
+This is my EDA project...
+
+Some info...
+
+
+```{r}
+hist(rnorm(300))
+```
+
+
+
+
+
+
